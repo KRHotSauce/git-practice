@@ -1,0 +1,15 @@
+#주석입니다
+.vscode 
+#이 파일 무시
+#tigers.yaml
+#모든 yaml파일
+#*.yaml 
+#특정파일 무시 해제
+!lions.yaml 
+#temp 바로 아래 경로의 yaml파일들 무시
+#temp/*.yaml
+#temp아래 모든 yaml파일 무시
+#temp/**/*.yaml
+
+
+
